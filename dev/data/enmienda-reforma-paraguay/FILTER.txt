@@ -1,0 +1,1 @@
+#prayforparaguay OR ((#paraguay OR paraguay) AND (enmienda OR amend OR reform)) since:fecha until:fecha

@@ -1,0 +1,1 @@
+#prayforparaguay OR ((#paraguay OR paraguay) AND (incendio OR llama OR quema OR fuego OR protesta OR disturbio OR incidente OR burn OR fire OR flames OR protest OR disturb OR incident) AND (congreso OR congress)) since:fecha until:fecha
