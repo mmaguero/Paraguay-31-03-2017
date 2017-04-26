@@ -13,7 +13,7 @@
 
 + Visualizaciones: Force Atlas, Noverlap con Ajuste de Etiquetas, Force Atlas 2, FR
 
-+ Pluggin JS de Gephi para jugar con las comunidades con FR (SigmaJS)
++ Pluggin JS de Gephi para jugar con las comunidades o grados con FR (SigmaJS)
   - [Grados](https://mmaguero.github.io/paraguay-31-03-2017/visualization/interactiva/grados/network/index.html)
   - [Comunidades](https://mmaguero.github.io/paraguay-31-03-2017/visualization/interactiva/comunidades/network/index.html)
 
