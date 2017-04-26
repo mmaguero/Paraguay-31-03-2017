@@ -13,4 +13,14 @@
 
 - Visualizaciones: Force Atlas, Noverlap con Ajuste de Etiquetas, Force Atlas 2, FR
 
-- Pluggin JS de Gephi para jugar con las comunidades con FR (SigmaJS)
++ Pluggin JS de Gephi para jugar con las comunidades con FR (SigmaJS)
+ - [Grados](https://mmaguero.github.io/paraguay-31-03-2017/visualization/interactiva/grados/network/)
+ - [Comunidades](https://mmaguero.github.io/paraguay-31-03-2017/visualization/interactiva/comunidades/network/)
+
+### Visualizaciones
+
+[Force Atlas](https://mmaguero.github.io/paraguay-31-03-2017/visualization/estatica/screenshot_234927.png)
+[Noverlap](https://mmaguero.github.io/paraguay-31-03-2017/visualization/estatica/screenshot_010237.png)
+[Force Atlas 2](https://mmaguero.github.io/paraguay-31-03-2017/visualization/estatica/screenshot_012623.png)
+[FR](https://mmaguero.github.io/paraguay-31-03-2017/visualization/estatica/screenshot_021413.png)
+
